@@ -132,3 +132,7 @@ home, shop, product-details, cart, about, contact, login, register, admin-dashbo
 - Frontend manages ALL data in localStorage — does not call the backend API at runtime
 - Backend API is standalone for future frontend-backend integration
 - Single-currency: BDT only
+
+
+
+updated
