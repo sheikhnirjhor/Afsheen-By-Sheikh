@@ -117,3 +117,7 @@ A Daraz-inspired luxury e-commerce platform for heritage Bengali couture, fine j
 | Checkout completion | Cart → Order successful |
 | Admin operations | Full CRUD on products |
 | Live chat | Customer sends message → Moderator replies |
+
+
+
+final update
