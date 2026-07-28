@@ -174,3 +174,10 @@ The frontend seeds initial data from `src/data/products.js` into localStorage on
 - 6 FAQs (FAQS)
 - 3 store locations (STORE_LOCATIONS)
 - 6 payment methods (PAYMENT_METHODS)
+
+
+
+
+
+
+all done

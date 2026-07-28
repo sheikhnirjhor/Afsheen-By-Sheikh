@@ -163,3 +163,8 @@ firestore/
 | as_wishlist | Array of product IDs |
 | as_chat | {messages: [{userId, text, sender, timestamp}]} |
 | as_flashSaleEnd | ISO timestamp for countdown timer |
+
+
+
+
+
