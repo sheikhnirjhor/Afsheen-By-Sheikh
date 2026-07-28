@@ -13,3 +13,6 @@ export default function NotFoundPage() {
     </div>
   );
 }
+
+
+//updated
