@@ -117,3 +117,12 @@ Afsheen-by-Sheikh/
 | Role | Responsibility |
 |------|---------------|
 | Full-Stack Developer | React UI, FastAPI backend, Firebase integration |
+
+
+
+
+
+
+
+
+final update
