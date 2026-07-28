@@ -120,4 +120,4 @@ A Daraz-inspired luxury e-commerce platform for heritage Bengali couture, fine j
 
 
 
-final update
+latest update
