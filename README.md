@@ -11,6 +11,7 @@ A full-stack e-commerce platform for premium Bangladeshi fashion and jewelry. Dh
 | Database | Firebase Firestore (with in-memory fallback) |
 | State | React Context + localStorage (all frontend-managed) |
 
+Website Live Link: http://localhost:5173/
 ## Features
 
 ### Storefront
