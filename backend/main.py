@@ -326,3 +326,5 @@ def seed_data():
         products_ref.document(p["id"]).set(p)
 
     return {"message": "Data seeded successfully"}
+
+# Added CRUD for PR diff
